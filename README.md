@@ -1,4 +1,5 @@
 # Sorting Visualizer
+To visit it on Google or any other browser : https://prakharps12.github.io/Sorting_Visualizer/  
 
 Welcome to the Sorting Visualizer! This web application allows you to visually understand how different sorting algorithms work, specifically Merge Sort, Bubble Sort, Quick Sort, and Heap Sort.  
 
